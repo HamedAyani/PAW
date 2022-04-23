@@ -3,7 +3,7 @@ include('koneksi.php');
 ?>
 <link href="assets/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 <link href="assets/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
-<!-- <link href="assets/css/custom.min.css" rel="stylesheet"> -->
+<link href="assets/css/custom.min.css" rel="stylesheet">
 <head>
     <style>
         body, html {
